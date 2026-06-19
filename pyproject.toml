@@ -12,7 +12,7 @@ dependencies = [
     "matplotlib",
     "shapely",
     "pyproj",
-    "reportlab"
+    "reportlab",
 ]
 
 [tool.uv]
