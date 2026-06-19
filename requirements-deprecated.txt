@@ -1,3 +1,4 @@
+# using pyproject.toml instead - now
 streamlit
 pandas
 openpyxl
