@@ -1,7 +1,7 @@
 [project]
-name = "blank-app-template"
-version = "0.1.0"
-description = "A simple Streamlit app template."
+name = "Nøgletal Folkekirken - Stiftsmodellen vers. 25"
+version = "25.1.0"
+description = "Nøgletal Folkekirken - Stiftsmodellen."
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
