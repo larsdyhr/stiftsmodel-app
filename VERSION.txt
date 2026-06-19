@@ -1,0 +1,23 @@
+Nøgletal Folkekirken
+App-version v25.0
+
+Bygger på v24.1.
+
+v25.0:
+- Ny datamodel for befolkningsfremskrivning til 2040.
+- Kirkeministeriets kommunebaserede fremskrivninger fra arket "Befolkning" er fordelt til provstier.
+- Fordeling sker proportionalt efter aktive provsti-indbyggertal 2026.
+- Originale 2040-felter er bevaret som originalkolonner.
+- Appens standardvisning bruger nu:
+  * Befolkning 2040, fordelt
+  * Befolkningsændring til 2040, fordelt
+  * Befolkningsændring til 2040 %, fordelt
+- Ny dokumentationsfil: data/2040_fordelingsdokumentation.xlsx.
+- Ny masterfil: data/provstidata_master_v25.xlsx.
+- Tidligere masterfil v24 er flyttet til data/bilag/gamle_data/.
+- Datakontrolboksen er flyttet ud af hovedvisningen og vises kun tydeligt ved kritiske fejl.
+- Datakilder vises diskret under teknisk dokumentation nederst i appen.
+- Datafilerne er fortsat sporbare; ingen originale kildedata er slettet.
+
+Metodisk forbehold:
+2040-tallene er provstifordelte estimater. De er baseret på Kirkeministeriets kommunebaserede fremskrivninger og aktive provsti-indbyggertal 2026.

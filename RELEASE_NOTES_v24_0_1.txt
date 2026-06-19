@@ -1,0 +1,47 @@
+RELEASE NOTES - Stiftsmodellen v24.0.1
+
+Type:
+- Teknisk oprydningsversion / fejlrettelse.
+- Ingen ændring af datamodel.
+- Ingen ændring af aktive data.
+
+Baseline:
+- v24.0 Datakonsolidering.
+
+Ændringer:
+1. app.py
+   - APP_VERSION ændret fra v24.0 til v24.0.1.
+   - Excel-indlæsning bruger nu sheet_name="Provstidata".
+   - Stiftsnavne-menuen vises kun ved valg af Østdanmark.
+   - Ved Hele Danmark og Jylland/Fyn bruges faste officielle stiftsnavne.
+   - Gamle v11/v12-/Østdanmark-tekster er fjernet eller opdateret.
+   - Farvenøgle rettet fra "Århus Stift" til "Aarhus Stift".
+   - PDF-kort indsættes med bevaret bredde/højde-forhold.
+   - Ubrugt PDF-tegnefunktion erstattet af aktiv ReportLab-hjælpefunktion.
+
+2. README.txt
+   - Ny aktuel v24.0.1-indledning.
+   - v24.0 angivet som baseline.
+   - Historik bevaret under separat historikafsnit.
+
+3. VERSION.txt
+   - v24.0.1 tilføjet øverst.
+   - Berørte og ikke-berørte filer dokumenteret.
+
+4. ZIP-/buildindhold
+   - __pycache__ udeladt fra distributionspakken.
+   - Topmappe omdøbt til stiftsmodel_app_v24_0_1.
+
+Kontrol:
+- app.py kompilerer uden syntaksfejl.
+- data/provstidata.xlsx indeholder arket "Provstidata".
+- Excel og GeoJSON indeholder begge 102 provstier.
+- Der er 0 mismatch mellem Excel-provstier og GeoJSON-provstier.
+- Aktive datafiler er hash-identiske med v24.0-pakken:
+  - data/provstidata.xlsx
+  - data/provstidata_master_v24.xlsx
+  - data/provstier.geojson
+
+Næste anbefalede trin:
+- v24.1 bør først påbegyndes efter manuel åbningstest af v24.0.1 i Streamlit.
+- v24.1 kan derefter fokusere på modulopdeling, datavalidering og mere synlig kilde-/kontrolvisning.

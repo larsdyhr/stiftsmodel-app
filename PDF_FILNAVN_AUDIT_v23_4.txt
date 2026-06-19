@@ -1,0 +1,15 @@
+Tilbageværende forekomster af Østdanmark/Oestdanmark/Område i app.py:
+
+40: "Østdanmark": "Oestdanmark",
+137: st.sidebar.header("Område")
+140: ["Østdanmark", "Jylland og Fyn", "Hele Danmark"],
+144: if area_choice == "Østdanmark":
+235: # Ellers opfattes vestdanske provstier som "ændrede", fordi de ikke fandtes i den gamle Østdanmarks-session.
+262: if area_choice == "Østdanmark":
+269: st.sidebar.caption("Biskoppernes Storstrøms-scenarie vises kun i Østdanmark.")
+274: # Stiftsnavne kan kun ændres i Østdanmarksmodellen.
+276: if area_choice == "Østdanmark":
+331: if area_choice == "Østdanmark":
+340: "Nøgletal er foreløbig fuldt udfyldt for Østdanmark; øvrige provstier har primært geografiske strukturdata."
+342: st.caption("Bemærk: Nøgletal er foreløbig fuldt udfyldt for Østdanmark. For Jylland og Fyn er den landsdækkende provsti-/sognegeografi indlæst, men nøgletal mangler helt eller delvist.")
+493: if area_choice == "Østdanmark":

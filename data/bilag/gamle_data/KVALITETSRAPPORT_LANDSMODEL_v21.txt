@@ -1,0 +1,28 @@
+KVALITETSRAPPORT - LANDSDÆKKENDE GEOGRAFI v21
+
+Stifter i reference: 10
+Provstier i reference: 102
+Sogneposter i reference uden 'Uden provstinavn': 2179
+Sogneposter i 'Uden provstinavn'/udland: 0
+Sogne i shapefile: 2097
+Matchede sognepolygoner: 2093
+Umatchede referenceposter: 86
+Umatchede shapefile-sogne: 4
+Genererede provstipolygoner: 102
+
+Provstier pr. stift:
+
+                 Stift  Provstier
+         Aalborg Stift         14
+           Fyens Stift         10
+       Haderslev Stift          7
+       Helsingør Stift         13
+      Københavns Stift          9
+Lolland-Falsters Stift          4
+            Ribe Stift          8
+        Roskilde Stift         12
+          Viborg Stift         11
+           Århus Stift         14
+
+
+Bemærk: Udenlandske menigheder/uden provstinavn er ikke medtaget i danske provstipolygoner.

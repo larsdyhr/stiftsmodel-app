@@ -1,0 +1,5 @@
+Antal skjulte første-blok widgets: 4
+
+label_map: [313, 320, 409]
+display_assignment: [320, 376, 390, 404]
+available_metrics: [334, 335, 338]

@@ -1,0 +1,54 @@
+RELEASE_NOTES_v24_1
+
+Versionstype:
+24.x - ny funktionalitet og arkitekturforbedring uden ændring af datamodel eller analysemetode.
+
+Udgangspunkt:
+v24.0.1 Teknisk oprydning.
+
+Gennemført:
+1. Modulopdeling
+   - app.py er reduceret og bruger nu moduler i core/.
+   - Scenarier, nøgletal, dataloading, validering, kort, PDF og filnavne er adskilt.
+
+2. Datavalidering ved opstart
+   - Kontrol af påkrævede kolonner.
+   - Kontrol af anbefalede v24-kolonner.
+   - Kontrol af dubletter i Excel og GeoJSON.
+   - Kontrol af match mellem Excel-provstier og GeoJSON-provstier.
+   - Kontrol af forventet antal provstier.
+   - Kontrol af numeriske kolonner.
+
+3. Kildegennemsigtighed
+   - Appen viser aktive app-filer, masterfil og bilagsmappe.
+   - Appen summerer registrerede kilder fra kolonnerne Datakilde primær og Datakilde supplerende.
+
+4. Flere eksisterende v24-nøgletal
+   - Ikke-medlemmer, Befolkning 2040, Pastorater, Lokal ligning, Præster inkl. LOFI m.fl. kan vælges i sidebaren.
+
+5. Eksport
+   - CSV, PNG og PDF bruger fælles filnavnslogik.
+   - PDF-logik ligger i core/pdf_export.py.
+   - Kortlogik ligger i core/map_rendering.py.
+
+Ikke ændret:
+- Datafiler
+- Geodata
+- Bilagsfiler
+- Grundlæggende scenariemetode
+- Biskoppernes Storstrøms-scenarie
+
+Berørte filer:
+- app.py
+- README.txt
+- VERSION.txt
+- RELEASE_NOTES_v24_1.txt
+- core/__init__.py
+- core/config.py
+- core/data_loader.py
+- core/validation.py
+- core/scenarios.py
+- core/metrics.py
+- core/map_rendering.py
+- core/pdf_export.py
+- core/filenames.py

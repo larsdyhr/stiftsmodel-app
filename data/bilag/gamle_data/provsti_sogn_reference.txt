@@ -1,0 +1,666 @@
+Københavns Stift
+1 – Københavns Stift
+104 – Nørrebro Provsti
+7050 – Anna Sogn
+7011 – Bethlehem Sogn
+9161 – Blågårdens Sogn
+7053 – Kingo-Samuel Sogn
+7051 – Sankt Stefans Sogn
+9169 – Simeon-Sankt Johannes Sogn
+106 – Frederiksberg Provsti
+7105 – Flintholm Sogn
+9181 – Frederiksberg Sogn
+7108 – Godthaabs Sogn
+7104 – Lindevang Sogn
+7107 – Mariendals Sogn
+7102 – Sankt Lukas Sogn
+7109 – Sankt Markus Sogn
+7106 – Sankt Thomas Sogn
+7103 – Solbjerg Sogn
+107 – Bornholms Provsti
+7560 – Allinge-Sandvig Sogn
+7570 – Bodilsker Sogn
+7568 – Christiansø Sogn
+7566 – Gudhjem Sogn
+7557 – Hasle Sogn
+7563 – Ibsker Sogn
+7561 – Klemensker Sogn
+7553 – Knudsker Sogn
+7571 – Nexø Sogn
+7556 – Nyker Sogn
+7555 – Nylarsker Sogn
+7559 – Olsker Sogn
+7573 – Pedersker Sogn
+7572 – Poulsker Sogn
+7558 – Rutsker Sogn
+7562 – Rø Sogn
+7552 – Rønne Sogn
+7564 – Svaneke Sogn
+7554 – Vestermarie Sogn
+7565 – Østerlarsker Sogn
+7567 – Østermarie Sogn
+7569 – Aaker Sogn
+110 – Bispebjerg-Brønshøj Provsti
+7061 – Ansgarkirkens Sogn
+9182 – Bellahøj-Utterslev Sogn
+7064 – Bispebjerg Sogn
+7068 – Brønshøj Sogn
+7065 – Emdrup Sogn
+7067 – Husum Sogn
+7070 – Husumvold Sogn
+7062 – Kapernaums Sogn
+7063 – Tagensbo Sogn
+9133 – Tingbjerg Sogn
+111 – Valby-Vanløse Provsti
+7059 – Advents Sogn
+7060 – Grøndals Sogn
+7057 – Hyltebjerg Sogn
+7026 – Timotheus Sogn
+7024 – Valby Sogn
+9190 – Valby Søndre Sogn
+7058 – Vanløse Sogn
+7027 – Vigerslev Sogn
+7028 – Aalholm Sogn
+112 – Amagerbro Provsti
+7085 – Allehelgens Sogn
+7081 – Christians Sogn
+7086 – Filips Sogn
+7088 – Højdevangs Sogn
+9345 – Islands Brygges Sogn
+7083 – Nathanaels Sogn
+7089 – Simon Peters Sogn
+7090 – Solvang Sogn
+7084 – Sundby Sogn
+7087 – Sundkirkens Sogn
+7082 – Vor Frelsers Sogn
+9352 – Ørestad Sogn
+113 – Amagerland Provsti
+7193 – Dragør Sogn
+7191 – Kastrup Sogn
+9081 – Korsvejens Sogn
+9140 – Skelgårds Sogn
+7192 – Store Magleby Sogn
+7190 – Tårnby Sogn
+114 – Vor Frue-Vesterbro Provsti
+9164 – Fredens-Nazaret Sogn
+7002 – Helligånds Sogn
+9346 – Sankt Petri Tyske Menighed
+9165 – Sydhavn Sogn
+7003 – Trinitatis Sogn
+9185 – Vesterbro Sogn
+9174 – Vor Frue Sogn
+115 – Holmens og Østerbro Provsti
+7054 – Aldersro Sogn
+9175 – Davids Sogn
+7038 – Frederiks Sogn
+7037 – Garnisons Sogn
+7046 – Hans Egedes Sogn
+7036 – Holmens Sogn
+7041 – Kastels Sogn
+7055 – Kildevælds Sogn
+7066 – Lundehus Sogn
+7043 – Rosenvængets Sogn
+7044 – Sankt Jakobs Sogn
+7039 – Sankt Pauls Sogn
+7056 – Sions Sogn
+7040 – Østervold Sogn
+Helsingør Stift
+2 – Helsingør Stift
+203 – Gladsaxe-Herlev Provsti
+7132 – Bagsværd Sogn
+9072 – Buddinge Sogn
+7130 – Gladsaxe Sogn
+9071 – Haralds Sogn
+7135 – Herlev Sogn
+9074 – Lindehøj Sogn
+7134 – Mørkhøj Sogn
+7136 – Præstebro Sogn
+7133 – Stengård Sogn
+7131 – Søborggård Sogn
+9068 – Søborgmagle Sogn
+204 – Gentofte Provsti
+7114 – Dyssegård Sogn
+7111 – Gentofte Sogn
+7117 – Hellerup Sogn
+7110 – Helleruplund Sogn
+7112 – Jægersborg Sogn
+7118 – Maglegårds Sogn
+7115 – Ordrup Sogn
+7116 – Skovshoved Sogn
+7113 – Vangede Sogn
+205 – Glostrup Provsti
+9084 – Brøndby Strand Sogn
+7144 – Brøndbyvester Sogn
+7145 – Brøndbyøster Sogn
+7147 – Glostrup Sogn
+7155 – Herstedvester Sogn
+7148 – Herstedøster Sogn
+9115 – Nygårds Sogn
+9134 – Opstandelseskirkens Sogn
+7149 – Vallensbæk Sogn
+206 – Helsingør Domprovsti
+7443 – Egebæksvang Sogn
+9240 – Gurre Sogn
+7442 – Hellebæk Sogn
+7441 – Hornbæk Sogn
+9103 – Mørdrup Sogn
+7438 – Sankt Mariæ Sogn
+7437 – Sankt Olai Sogn
+9098 – Sthens Sogn
+7440 – Tikøb Sogn
+7439 – Vestervang Sogn
+207 – Fredensborg Provsti
+9334 – Asminderød-Grønholt Sogn
+7446 – Humlebæk Sogn
+7451 – Hørsholm Sogn
+7452 – Karlebo Sogn
+9145 – Kokkedal Sogn
+9080 – Rungsted Sogn
+208 – Frederikssund Provsti
+7454 – Draaby Sogn
+7456 – Ferslev Sogn
+7418 – Frederikssund Sogn
+7413 – Ganløse Sogn
+7453 – Gerlev Sogn
+7423 – Græse Sogn
+9113 – Islebjerg Sogn
+7427 – Jørlunde Sogn
+7461 – Krogstrup Sogn
+7460 – Kyndby Sogn
+7185 – Ledøje Sogn
+7419 – Oppe Sundby Sogn
+7459 – Selsø Sogn
+7424 – Sigerslevvester Sogn
+7455 – Skibby Sogn
+9242 – Skoven Sogn
+7458 – Skuldelev Sogn
+7412 – Slagslunde Sogn
+7421 – Slangerup Sogn
+7186 – Smørum Sogn
+7420 – Snostrup Sogn
+7410 – Stenløse Sogn
+7411 – Veksø Sogn
+7457 – Vellerup Sogn
+7409 – Ølstykke Sogn
+209 – Frederiksværk Provsti
+7396 – Annisse Sogn
+7392 – Blistrup Sogn
+7428 – Esbønderup Sogn
+9186 – Frederiksværk-Vinderød Sogn
+7431 – Gilleleje Sogn
+7432 – Græsted Sogn
+7434 – Helsinge Sogn
+7399 – Kregme Sogn
+7407 – Melby Sogn
+7433 – Mårum Sogn
+7395 – Ramløse Sogn
+7430 – Søborg Sogn
+7394 – Tibirke Sogn
+7408 – Torup Sogn
+7435 – Valby Sogn
+7393 – Vejby Sogn
+9243 – Villingerød Sogn
+7400 – Ølsted Sogn
+210 – Rødovre-Hvidovre Provsti
+7146 – Avedøre Sogn
+7138 – Grøndalslund Sogn
+7140 – Hendriksholm Sogn
+7141 – Hvidovre Sogn
+7139 – Islev Sogn
+7143 – Risbjerg Sogn
+7137 – Rødovre Sogn
+7142 – Strandmarks Sogn
+211 – Ballerup-Furesø Provsti
+7187 – Ballerup Sogn
+7414 – Farum Sogn
+9239 – Hareskov Sogn
+7188 – Måløv Sogn
+9089 – Pederstrup Sogn
+7189 – Skovlunde Sogn
+7154 – Værløse Sogn
+212 – Kongens Lyngby Provsti
+7120 – Christians Sogn
+7119 – Kongens Lyngby Sogn
+7123 – Lundtofte Sogn
+7122 – Sorgenfri Sogn
+7124 – Taarbæk Sogn
+7121 – Virum Sogn
+213 – Hillerød Provsti
+7402 – Alsønderup Sogn
+7449 – Blovstrød Sogn
+9155 – Engholm Sogn
+7436 – Frederiksborg Slotssogn
+9241 – Gadevang Sogn
+9154 – Grønnevang Sogn
+7406 – Gørløse Sogn
+7415 – Hillerød Sogn
+7404 – Lille Lyngby Sogn
+7450 – Lillerød Sogn
+7425 – Lynge Sogn
+7429 – Nødebo Sogn
+7416 – Nørre Herlev Sogn
+7417 – Præstevang Sogn
+7403 – Skævinge Sogn
+7405 – Strø Sogn
+7401 – Tjæreby Sogn
+7426 – Uggeløse Sogn
+7467 – Ullerød Sogn
+7422 – Uvelse Sogn
+214 – Høje Taastrup Provsti
+7162 – Fløng Sogn
+9083 – Hedehusene Sogn
+7152 – Høje Taastrup Sogn
+7151 – Ishøj Sogn
+7196 – Reerslev Sogn
+9094 – Rønnevang Sogn
+7184 – Sengeløse Sogn
+7150 – Torslunde Sogn
+7153 – Taastrup Nykirke Sogn
+215 – Rudersdal Provsti
+9311 – Birkerød Sogn
+7448 – Bistrup Sogn
+7128 – Gammel Holte Sogn
+9310 – Høsterkøb Sogn
+7127 – Ny Holte Sogn
+7129 – Nærum Sogn
+7125 – Søllerød Sogn
+7126 – Vedbæk Sogn
+Roskilde Stift
+3 – Roskilde Stift
+301 – Roskilde Domprovsti
+7213 – Dåstrup Sogn
+7210 – Gadstrup Sogn
+7170 – Gundsømagle Sogn
+7160 – Himmelev Sogn
+7161 – Hvedstrup Sogn
+7169 – Jyllinge Sogn
+7168 – Kirkerup Sogn
+7156 – Roskilde Domsogn
+7157 – Roskilde Søndre Sogn
+7159 – Sankt Jørgensbjerg Sogn
+7198 – Snoldelev Sogn
+7166 – Svogerslev Sogn
+7211 – Syv Sogn
+7197 – Vindinge Sogn
+7158 – Vor Frue Sogn
+7212 – Ørsted Sogn
+7167 – Ågerup Sogn
+302 – Lejre Provsti
+7172 – Allerslev Sogn
+7182 – Gershøj Sogn
+7164 – Gevninge Sogn
+7209 – Glim Sogn
+7163 – Herslev Sogn
+7173 – Kirke Hvalsø Sogn
+7179 – Kirke Hyllinge Sogn
+7178 – Kirke Sonnerup Sogn
+7175 – Kirke Saaby Sogn
+7176 – Kisserup Sogn
+7165 – Kornerup Sogn
+7180 – Lyndby Sogn
+7171 – Osted Sogn
+7208 – Rorup Sogn
+7177 – Rye Sogn
+7181 – Sæby Sogn
+7174 – Særløse Sogn
+303 – Køge Provsti
+7537 – Bjæverskov Sogn
+9117 – Boholte Sogn
+7214 – Borup Sogn
+7216 – Ejby Sogn
+7539 – Gørslev Sogn
+7540 – Herfølge Sogn
+7218 – Højelse-Ølby Sogn
+7215 – Kimmerslev Sogn
+7206 – Køge Sogn
+7492 – Lellinge Sogn
+7536 – Lidemark Sogn
+7217 – Nørre Dalby Sogn
+7541 – Sædder Sogn
+7538 – Vollerslev Sogn
+7207 – Ølsemagle Sogn
+304 – Kalundborg Provsti
+9315 – Bregninge-Bjergsted-Alleshave Sogn
+7225 – Buerup Sogn
+7239 – Drøsselbjerg Sogn
+7235 – Finderup Sogn
+9323 – Føllenslev-Særslev Sogn
+7234 – Gierslev Sogn
+9351 – Gørlev-Bakkendrup Sogn
+7224 – Hallenslev Sogn
+7254 – Jorløse Sogn
+7238 – Kirke Helsinge Sogn
+7222 – Lille Fuglede Sogn
+9066 – Nyvangs Sogn
+7269 – Raklev Sogn
+7226 – Reerslev Sogn
+9244 – Reersø Sogn
+7273 – Rørby Sogn
+7270 – Røsnæs Sogn
+7257 – Sejerø Sogn
+7232 – Solbjerg Sogn
+7221 – Store Fuglede Sogn
+7220 – Svallerup Sogn
+7223 – Sæby Sogn
+7271 – Tømmerup Sogn
+7219 – Ubby Sogn
+9312 – Viskinge-Avnsø Sogn
+7268 – Vor Frue Sogn
+7253 – Værslev Sogn
+7231 – Ørslev Sogn
+7272 – Årby Sogn
+305 – Holbæk Provsti
+9177 – Butterup-Tuse Sogn
+7295 – Gislinge Sogn
+7294 – Hagested Sogn
+9176 – Hjembæk-Svinninge Sogn
+7300 – Holmstrup Sogn
+7299 – Jyderup Sogn
+7287 – Kirke Eskilstrup Sogn
+7296 – Kundby Sogn
+7279 – Kvanløse Sogn
+7278 – Nørre Jernløse Sogn
+7246 – Orø Sogn
+7274 – Sankt Nikolai Sogn
+9179 – Skamstrup-Frydendal Sogn
+7286 – Soderup Sogn
+9189 – Stigs Bjergby-Mørkøv Sogn
+7288 – Store Tåstrup Sogn
+7280 – Sønder Jernløse Sogn
+7281 – Søstrup Sogn
+9192 – Tuse Næs Sogn
+7275 – Tveje Merløse Sogn
+7284 – Tølløse Sogn
+7289 – Ugerløse Sogn
+9325 – Undløse-Søndersted Sogn
+9292 – Vipperød Sogn
+306 – Odsherred Provsti
+7266 – Asnæs Sogn
+7264 – Egebjerg Sogn
+7267 – Fårevejle Sogn
+7265 – Grevinge Sogn
+7261 – Højby Sogn
+7256 – Hørve Sogn
+9246 – Lumsås Sogn
+7258 – Nykøbing Sj Sogn
+7263 – Nørre Asmindrup Sogn
+7260 – Odden Sogn
+7259 – Rørvig Sogn
+7255 – Vallekilde Sogn
+7262 – Vig Sogn
+307 – Ringsted-Sorø Provsti
+7388 – Alsted Sogn
+7364 – Benløse Sogn
+7391 – Bjernede Sogn
+7343 – Bringstrup Sogn
+7339 – Bromme Sogn
+7372 – Farendløse Sogn
+7389 – Fjenneslev Sogn
+7340 – Gyrstinge Sogn
+9322 – Haraldsted-Allindemagle Sogn
+7374 – Høm Sogn
+7367 – Jystrup Sogn
+7341 – Kirke Flinterup Sogn
+7370 – Kværkeby Sogn
+7386 – Lynge Sogn
+7338 – Munke Bjergby Sogn
+7371 – Nordrupøster Sogn
+7384 – Pedersborg Sogn
+7363 – Ringsted Sogn
+7227 – Ruds Vedby Sogn
+7344 – Sigersted Sogn
+7390 – Slaglille Sogn
+7376 – Sneslev Sogn
+7383 – Sorø Sogn
+7245 – Stenlille Sogn
+7342 – Stenmagle Sogn
+9353 – Tersløse-Skellebjerg-Niløse Sogn
+7368 – Valsølille Sogn
+7387 – Vester Broby Sogn
+7373 – Vetterslev Sogn
+7369 – Vigersted Sogn
+7378 – Ørslev Sogn
+310 – Tryggevælde Provsti
+7529 – Alslev Sogn
+7382 – Bråby Sogn
+7546 – Endeslev Sogn
+7522 – Faxe Sogn
+7380 – Freerslev Sogn
+7551 – Frøslev Sogn
+7379 – Haslev Sogn
+7494 – Havnelev Sogn
+7526 – Hellested Sogn
+7545 – Himlingøje Sogn
+7496 – Holtug Sogn
+7523 – Hylleholt Sogn
+7549 – Højerup Sogn
+7544 – Hårlev Sogn
+7528 – Karise Sogn
+7534 – Kongsted Sogn
+7493 – Lille Heddinge Sogn
+7550 – Lyderslev Sogn
+7495 – Magleby Stevns Sogn
+7535 – Roholte Sogn
+7525 – Smerup Sogn
+7524 – Spjellerup Sogn
+7548 – Store Heddinge Sogn
+7497 – Strøby Sogn
+7530 – Sønder Dalby Sogn
+7381 – Teestrup Sogn
+7377 – Terslev Sogn
+7531 – Tureby Sogn
+7543 – Tårnby Sogn
+7532 – Ulse Sogn
+7542 – Valløby Sogn
+7498 – Varpelev Sogn
+7527 – Vemmetofte Sogn
+7512 – Vester Egede Sogn
+7547 – Vråby Sogn
+7375 – Øde Førslev Sogn
+7533 – Øster Egede Sogn
+311 – Næstved Provsti
+7513 – Aversi Sogn
+7472 – Everdrup Sogn
+7516 – Fensmark Sogn
+7305 – Fodby Sogn
+9324 – Fuglebjerg-Tystrup-Haldagerlille Sogn
+7337 – Fyrendal Sogn
+7332 – Førslev Sogn
+9344 – Glumsø-Bavelse-Næsby Sogn
+7307 – Gunderslev Sogn
+7506 – Hammer Sogn
+7515 – Herlufmagle Sogn
+7306 – Herlufsholm Sogn
+7501 – Holme Olstrup Sogn
+9162 – Holsted Sogn
+7335 – Hyllinge Sogn
+7317 – Hårslev Sogn
+7304 – Karrebæk Sogn
+7330 – Krummerup Sogn
+7336 – Kvislemark Sogn
+7334 – Marvede Sogn
+7503 – Mogenstrup Sogn
+7502 – Næstelsø Sogn
+7517 – Rislev Sogn
+7500 – Rønnebæk Sogn
+7464 – Sandby Sogn
+9111 – Sankt Jørgens Sogn
+7511 – Sankt Mortens Sogn
+7510 – Sankt Peders Sogn
+7518 – Skelby Sogn
+7473 – Snesere Sogn
+7318 – Ting Jellinge Sogn
+7499 – Toksværd Sogn
+7514 – Tybjerg Sogn
+7463 – Tyvelse Sogn
+7333 – Vallensved Sogn
+7504 – Vejlø Sogn
+7505 – Vester Egesborg Sogn
+7465 – Vrangstrup Sogn
+312 – Stege-Vordingborg Provsti
+7476 – Allerslev Sogn
+7475 – Beldringe Sogn
+7521 – Bogø Sogn
+7488 – Borre Sogn
+7474 – Bårse Sogn
+7490 – Damsholte Sogn
+7487 – Elmelunde Sogn
+7491 – Fanefjord Sogn
+7471 – Jungshoved Sogn
+7481 – Kalvehave Sogn
+7470 – Kastrup Sogn
+7486 – Keldby Sogn
+7508 – Køng Sogn
+7507 – Lundby Sogn
+7489 – Magleby Sogn
+7480 – Mern Sogn
+7485 – Nyord Sogn
+7466 – Præstø Sogn
+7468 – Skibinge Sogn
+7483 – Stege Sogn
+9109 – Stensby Sogn
+9247 – Svinø Sogn
+7509 – Sværdborg Sogn
+7477 – Udby Sogn
+7469 – Vordingborg Sogn
+7478 – Ørslev Sogn
+7479 – Øster Egesborg Sogn
+313 – Greve-Solrød Provsti
+7194 – Greve Sogn
+7202 – Havdrup Sogn
+7195 – Hundige-Kildebrønde Sogn
+7204 – Jersie Sogn
+7200 – Karlslunde Sogn
+9105 – Karlslunde Strandsogn
+7201 – Karlstrup Sogn
+7205 – Kirke Skensved Sogn
+9108 – Mosede Sogn
+7203 – Solrød Sogn
+7199 – Tune Sogn
+314 – Slagelse Provsti
+7326 – Agersø Sogn
+9160 – Antvorskov Sogn
+7362 – Boeslunde Sogn
+7309 – Eggeslevmagle Sogn
+7311 – Flakkebjerg Sogn
+7313 – Fårdrup Sogn
+7358 – Gerlev Sogn
+7316 – Gimlinge Sogn
+7352 – Gudum Sogn
+9070 – Halskov Sogn
+7233 – Havrebjerg Sogn
+7346 – Hejninge Sogn
+7361 – Hemmeshøj Sogn
+7321 – Holsteinborg Sogn
+7319 – Hyllested Sogn
+7310 – Høve Sogn
+7385 – Kindertofte Sogn
+7359 – Kirke Stillinge Sogn
+7315 – Kirkerup Sogn
+7357 – Lundforlund Sogn
+7325 – Magleby Sogn
+7351 – Nordrupvester Sogn
+9144 – Nørrevang Sogn
+7327 – Omø Sogn
+7354 – Ottestrup Sogn
+7345 – Sankt Mikkels Sogn
+7347 – Sankt Peders Sogn
+7348 – Sankt Povls Sogn
+7308 – Skælskør Sogn
+7312 – Skørpinge Sogn
+7355 – Slots Bjergby Sogn
+7356 – Sludstrup Sogn
+7353 – Sorterup Sogn
+7323 – Sønder Bjerge Sogn
+7350 – Sønderup Sogn
+7314 – Sørbymagle Sogn
+7324 – Tjæreby Sogn
+7349 – Tårnborg Sogn
+7360 – Vemmelev Sogn
+7320 – Venslev Sogn
+7322 – Ørslev Sogn
+4 – Lolland-Falsters Stift
+401 – Lolland Vestre Provsti
+7673 – Arninge Sogn
+7627 – Avnede Sogn
+7641 – Birket Sogn
+7671 – Branderslev Sogn
+7630 – Dannemare Sogn
+7667 – Fejø Sogn
+7668 – Femø Sogn
+7632 – Gloslunde Sogn
+7633 – Græshave Sogn
+7626 – Halsted Sogn
+9343 – Horslunde Sogn
+7629 – Kappel Sogn
+9321 – Købelev-Vindeby Sogn
+7634 – Landet Sogn
+9248 – Langø Sogn
+7635 – Ryde Sogn
+7674 – Sandby Sogn
+7670 – Sankt Nikolai Sogn
+7672 – Stormarks Sogn
+9195 – Søllested-Skovlænge-Gurreby Sogn
+7631 – Tillitse Sogn
+9194 – Utterslev-Herredskirke-Løjtofte Sogn
+7628 – Vestenskov Sogn
+7640 – Vesterborg Sogn
+403 – Maribo Domprovsti
+7669 – Askø Sogn
+7666 – Bandholm Sogn
+7660 – Bursø Sogn
+9331 – Errindlev-Olstrup-Tågerup Sogn
+7657 – Fuglse Sogn
+7649 – Hillested Sogn
+7659 – Holeby Sogn
+7646 – Hunseby Sogn
+7658 – Krønge Sogn
+7648 – Maribo Domsogn
+9339 – Rødby Sogn
+9082 – Rødbyhavn Sogn
+7650 – Skørringe Sogn
+7639 – Stokkemarke Sogn
+7663 – Tirsted Sogn
+7654 – Torslunde Sogn
+7664 – Vejleby Sogn
+7665 – Østofte Sogn
+404 – Lolland Østre Provsti
+7599 – Døllefjelde Sogn
+7601 – Herritslev Sogn
+9336 – Kettinge-Bregninge Sogn
+9330 – Krumsø Sogn
+7594 – Majbølle Sogn
+7600 – Musse Sogn
+9319 – Nysted-Vantore Sogn
+9340 – Radsted-Tårs Sogn
+7642 – Sakskøbing Sogn
+9332 – Slemminge-Fjelde Sogn
+7596 – Toreby Sogn
+7593 – Vigsnæs Sogn
+9341 – Våbensted-Engestofte Sogn
+408 – Falster Provsti
+7576 – Eskilstrup Sogn
+7590 – Falkerslev Sogn
+7582 – Gedesby Sogn
+9249 – Gedser Sogn
+7611 – Gundslev Sogn
+7589 – Horbelev Sogn
+7586 – Horreby Sogn
+7579 – Idestrup Sogn
+7585 – Karleby Sogn
+7608 – Maglebrænde Sogn
+9318 – Nordvestfalster Sogn
+7578 – Nykøbing F Sogn
+7613 – Nørre Alslev Sogn
+7614 – Nørre Kirkeby Sogn
+7587 – Nørre Ørslev Sogn
+7581 – Skelby Sogn
+7607 – Stubbekøbing Sogn
+7588 – Systofte Sogn
+7584 – Sønder Alslev Sogn
+7583 – Sønder Kirkeby Sogn
+7577 – Tingsted Sogn
+9357 – Torkilstrup-Lillebrænde Sogn
+7580 – Væggerløse Sogn
+7575 – Ønslev Sogn
+7591 – Aastrup Sogn

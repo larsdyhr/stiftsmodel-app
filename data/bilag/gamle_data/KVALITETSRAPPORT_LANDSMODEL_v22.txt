@@ -1,0 +1,44 @@
+KVALITETSRAPPORT - LANDSMODEL v22
+
+Stifter i dansk reference: 10
+Provstier i dansk reference: 102
+Sogne i shapefile: 2097
+Matchede sognepolygoner: 2097
+Sognepolygoner uden reference: 0
+Referenceposter uden dansk sognepolygon: 77
+Genererede provstipolygoner: 102
+
+Provstier pr. stift:
+                 Stift  Provstier
+         Aalborg Stift         14
+           Fyens Stift         10
+       Haderslev Stift          7
+       Helsingør Stift         13
+      Københavns Stift          9
+Lolland-Falsters Stift          4
+            Ribe Stift          8
+        Roskilde Stift         12
+          Viborg Stift         11
+           Århus Stift         14
+
+Sogne pr. stift:
+                 Stift  Sogne
+         Aalborg Stift    296
+           Fyens Stift    231
+       Haderslev Stift    173
+       Helsingør Stift    146
+      Københavns Stift     94
+Lolland-Falsters Stift     78
+            Ribe Stift    199
+        Roskilde Stift    300
+          Viborg Stift    259
+           Århus Stift    321
+
+Rettelser i v22:
+- 9360 Skellerup-Ellinge Sogn (Kerteminde-Nyborg Provsti, Fyens Stift)
+- 9361 Fuglse-Krønge-Torslunde Sogn (Maribo Domprovsti, Lolland-Falsters Stift)
+- 9362 Hjerk-Harre Sogn (Salling Provsti, Viborg Stift)
+- 9363 Holsted-Sankt Peders Sogn (Malt Provsti, Ribe Stift)
+
+Konklusion:
+Der er 100 % match mellem de 2097 sognepolygoner i shapefilen og den korrigerede danske reference.

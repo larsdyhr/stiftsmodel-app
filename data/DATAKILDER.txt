@@ -1,0 +1,21 @@
+DATAKILDER - v25.0
+
+Aktive app-filer:
+- data/provstidata.xlsx
+- data/provstier.geojson
+
+Master- og dokumentationsfiler:
+- data/provstidata_master_v25.xlsx
+- data/2040_fordelingsdokumentation.xlsx
+
+Primær kilde til 2040-fremskrivning:
+- Kopi af Tabel vedr. stifter og provstier slut torsdag.xlsx
+- Ark: Befolkning
+
+Metode:
+Kommunebaserede befolkningsændringer er fordelt til relevante provstier proportionalt efter aktive provsti-indbyggertal 2026.
+Originale 2040-tal fra v24 er bevaret i originalkolonner.
+
+Historik:
+- data/bilag/gamle_data/provstidata_master_v24.xlsx
+- øvrige ældre data- og kildefiler i data/bilag/.

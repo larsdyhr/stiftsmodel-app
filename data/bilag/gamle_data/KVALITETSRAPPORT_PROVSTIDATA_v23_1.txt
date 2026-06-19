@@ -1,0 +1,48 @@
+KVALITETSRAPPORT - PROVSTIDATA v23.1
+
+Datakilde: provstidata_v29_2_hele_danmark_korrigeret.xlsx
+Antal provstier: 102
+Antal stifter: 10
+
+Provstier pr. stift:
+                 Stift  Provstier
+         Aalborg Stift         14
+           Fyens Stift         10
+       Haderslev Stift          7
+       Helsingør Stift         13
+      Københavns Stift          9
+Lolland-Falsters Stift          4
+            Ribe Stift          8
+        Roskilde Stift         12
+          Viborg Stift         11
+           Århus Stift         14
+
+Manglende værdier - kernekolonner:
+- Stift: 0
+- Provsti: 0
+- Indbyggertal: 0
+- Folkekirkemedlemmer: 0
+- Medlemsprocent: 0
+- Sognepræster: 0
+- Overenskomstansatte sognepræster: 0
+- Præster i alt: 0
+- Menighedsråd: 0
+- Sogne: 0
+
+Manglende værdier inkl. pastorater:
+- Stift: 0
+- Provsti: 0
+- Indbyggertal: 0
+- Folkekirkemedlemmer: 0
+- Medlemsprocent: 0
+- Sognepræster: 0
+- Overenskomstansatte sognepræster: 0
+- Præster i alt: 0
+- Menighedsråd: 0
+- Sogne: 0
+- Pastorater: 22
+
+Afvigelser i medlemsprocentkontrol: 0
+
+Konklusion: Kerne-nøgletal er komplette for alle 102 provstier.
+Bemærkning: Pastorater mangler fortsat for 22 østdanske provstier i denne fil, men er udfyldt for alle senere indlæste vestdanske provstier.
