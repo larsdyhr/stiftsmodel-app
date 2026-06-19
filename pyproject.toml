@@ -1,5 +1,5 @@
 [project]
-name = "Noegletal"
+name = "blank-app-template"
 version = "25.1.0"
 description = "Nøgletal Folkekirken - Stiftsmodellen."
 readme = "README.md"
