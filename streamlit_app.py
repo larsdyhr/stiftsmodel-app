@@ -84,6 +84,7 @@ def reset_to_current():
     st.session_state.assignment = current_assignment(df)
     st.session_state.active_scenario = "Nuværende forhold"
     st.session_state.scenario_name = "Nuværende forhold"
+    st.session_state.name_syd = CURRENT_LOF
 
 # Vigtigt i landsmodellen: Når områdevalg skifter, skal baseline genberegnes.
 if st.session_state.get("area_choice") != area_choice:
@@ -96,6 +97,8 @@ if "active_scenario" not in st.session_state:
     st.session_state.active_scenario = "Nuværende forhold"
 if "scenario_name" not in st.session_state:
     st.session_state.scenario_name = "Nuværende forhold"
+if "name_syd" not in st.session_state:
+    st.session_state.name_syd = CURRENT_LOF
 
 # Sørg for, at alle provstier i det valgte område altid har en baselineværdi.
 for provsti, stift in current_assignment(df).items():
@@ -111,6 +114,7 @@ if area_choice == "Østdanmark":
         st.session_state.assignment = bishops_assignment(df)
         st.session_state.active_scenario = "Biskoppernes forslag"
         st.session_state.scenario_name = "Biskoppernes forslag"
+        st.session_state.name_syd = BISHOP_SOUTH
         st.rerun()
 else:
     st.sidebar.caption("Biskoppernes Storstrøms-scenarie vises kun i Østdanmark.")
@@ -126,7 +130,7 @@ if area_choice == "Østdanmark":
     name_ros = st.sidebar.text_input("Roskilde stift", CURRENT_ROS)
     name_syd = st.sidebar.text_input(
         "Sydligt stift",
-        BISHOP_SOUTH if st.session_state.active_scenario == "Biskoppernes forslag" else CURRENT_LOF,
+        key="name_syd",
     )
 else:
     name_kbh = CURRENT_KBH
