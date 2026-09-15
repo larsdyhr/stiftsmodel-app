@@ -33,3 +33,7 @@ Other references sites used https://docs.astral.sh/uv/concepts/projects/dependen
 - https://stiftsmodel.streamlit.app/ - via https://share.streamlit.io/ (from my Github Account https://github.com/codespaces/)
 - 
 - 
+15/9-2026:
+  When a change has been made to the Github repo, we must remember to login to the streamlit platform and reboot the app (Lars logs in this from his Github account to
+
+  https://stiftsmodel.streamlit.app/
